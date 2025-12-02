@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Tokimeki",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-02T20:00:49.928781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tokimeki",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_Tokimeki_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TOKIMEKI Runners",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/02_TOKIMEKI_Runners_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tokimeki Sugar",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/03_Tokimeki_Sugar_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tokimeki Sugar (Cassette Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/04_Tokimeki_Sugar_(Cassette_Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tokimeki Sugar (Studio Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/05_Tokimeki_Sugar_(Studio_Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fuyu no Tokimeki",
+      "artist": "cinnamons × evening cinema",
+      "has_synced": true,
+      "path": "select/06_Fuyu_no_Tokimeki_cinnamons_×_evening_cinema.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fuyu no Tokimeki (instrumental)",
+      "artist": "cinnamons × evening cinema",
+      "has_synced": true,
+      "path": "select/07_Fuyu_no_Tokimeki_(instrumental)_cinnamons_×_evening_cinema.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tokimeki",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/08_Tokimeki_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tokimeki Sugar",
+      "artist": "HO-KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/09_Tokimeki_Sugar_HO-KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tokimeki Lights (Cosmic Explorer-mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/10_Tokimeki_Lights_(Cosmic_Explorer-mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tokimeki Lights",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/11_Tokimeki_Lights_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "TOKIMEKI LIGHTS (Album-mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/12_TOKIMEKI_LIGHTS_(Album-mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tokimeki Sugar (Studio Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/13_Tokimeki_Sugar_(Studio_Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tokimeki Lights (Cosmic Explorer version)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/14_Tokimeki_Lights_(Cosmic_Explorer_version)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tokimeki Holiday",
+      "artist": "YUC'e",
+      "has_synced": true,
+      "path": "select/15_Tokimeki_Holiday_YUC'e.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tokimeki",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/16_Tokimeki_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tokimeki Sugar - Ep. 23 \"Ho-Kago!\" Mix",
+      "artist": "Ho - Kago Tea Time",
+      "has_synced": false,
+      "path": "select/17_Tokimeki_Sugar_-_Ep._23__Ho-Kago!__Mix_Ho_-_Kago_Tea_Time.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tokimeki Sugar",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/18_Tokimeki_Sugar_放課後ティータイム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tokimeki",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_Tokimeki_Vaundy.txt"
+    }
+  ]
+}
