@@ -1,0 +1,58 @@
+# Vaundy – Tokimeki
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.68] 目に映るのは 確かな
+[00:05.93] Tokimekiで光る魔法
+[00:08.84] 思い当たるのは 誰かの
+[00:13.84] 涙が落ちる音
+[00:16.84] 
+[00:16.69] Uh, uh, uh, yeah-yeah, uh, uh, uh, yeah-yeah
+[00:20.66] Uh, uh, uh, yeah-yeah
+[00:21.69] それは 軽やかな魔法
+[00:24.84] Uh, uh, uh, yeah-yeah, uh, uh, uh, yeah-yeah
+[00:28.60] 美しいほど 止まらぬ cry
+[00:35.60] 
+[00:32.48] Da-da-da-da-da, just dancing tonight (na-na-na)
+[00:39.09] 涙流して笑えばいいさ
+[00:43.69] 見えぬ未来も 悪くはないぜ（ないぜ）
+[00:48.31] Da-da-da-da-da, just dancing tonight (na-na-na)
+[00:55.13] あくびしてる暇なんかないぜ
+[00:59.48] ほら ほらもっと聞かして
+[01:02.07] Uh, uh, uh, uh, uh
+[01:11.07] 
+[01:12.86] 聞こえてるのは 確かな
+[01:18.02] Tokimekiで歌う魔法
+[01:20.75] 思い当たるのは 誰かの
+[01:25.53] 鼻歌のIntro
+[01:29.53] 
+[01:28.58] Uh, uh, uh, yeah-yeah, uh, uh, uh, yeah-yeah
+[01:32.51] Uh, uh, uh, yeah-yeah
+[01:33.86] それは、鮮やかな魔法
+[01:36.68] Uh, uh, uh, yeah-yeah, uh, uh, uh, yeah-yeah
+[01:40.44] 聞こえてるのは
+[01:43.94] 
+[01:44.50] Da-da-da-da-da, just dancing tonight (na-na-na)
+[01:51.15] 涙流して笑えばいいさ
+[01:55.06] 見えぬ未来も 悪くはないぜ（ないぜ）
+[02:00.52] Da-da-da-da-da, just dancing tonight (na-na-na)
+[02:07.19] (Na-na-na) あくびしてる暇なんかないぜ
+[02:12.68] ほら ほらもっと聞かして
+[02:14.19] Uh, uh, uh, uh, uh
+[02:23.19] 
+[02:16.61] 途切れない 悲しみは点で
+[02:20.61] 線を描いてるようだ
+[02:24.63] 震え出す その線のせいで
+[02:28.70] 動き出してしまうの（しまうの）
+[02:32.56] Tu-tu-tu, yeah-yeah, tu-tu-tu, yeah-yeah
+[02:36.63] 止まれないのはTokimekiのせい
+[02:45.63] 
+[02:40.43] Da-da-da-da-da, just dancing tonight (na-na-na)
+[02:47.15] 涙流して笑えばいいさ
+[02:51.00] 見えぬ未来も 悪くはないぜ（ないぜ）
+[02:56.51] Da-da-da-da-da, just dancing tonight (na-na-na)
+[03:03.24] あくびしてる暇なんかないぜ
+[03:07.21] ほら ほらもっと聞かして
+[03:10.04] Uh, uh, uh, uh, uh
+```
